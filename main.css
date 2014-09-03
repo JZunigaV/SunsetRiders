@@ -44,6 +44,28 @@ samp {
     display: none;
 }
 
+
+
+ ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+ ul li { display: inline; }
+
+ ul li a
+{
+text-decoration: none;
+}
+
+a {
+text-decoration: none;
+}
+
+
 img {
     background: transparent;
     border: 10px solid rgba(0, 0, 0, 0.12);
